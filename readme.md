@@ -5,9 +5,7 @@ Instalación
 
 Antes de comenzar, asegúrate de tener Node.js instalado en tu máquina. Puedes descargarlo aquí.
 
-    Clona este repositorio en tu máquina local:
-
-    bash
+Clona este repositorio en tu máquina local:
 
 ```
 git clone https://github.com/Felipelo94/node-console-todo-app.git
