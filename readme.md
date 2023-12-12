@@ -70,6 +70,7 @@ Opciones del menú
     Salir: Cierra la aplicación.
 
 Nota: Sigue las instrucciones en pantalla para completar cada opción.
+
 Contribuciones
 
 Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, no dudes en crear un problema o enviar una solicitud de extracción. ¡Las contribuciones son bienvenidas!
